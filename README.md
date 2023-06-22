@@ -51,3 +51,5 @@ self.imgFrame = ImageLabel(self.centralwidget)
 
 ## Output
 ![alt text](https://github.com/KodinGuy08/Tesseract-Demo/blob/main/images/demo.png?raw=true)
+
+Click on between the green rectangles to print out the text below that rectangle.
