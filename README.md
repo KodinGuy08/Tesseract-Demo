@@ -21,3 +21,5 @@ pip install pytesseract
 pip install PySide6
 pip install Pillow
 ```
+
+![alt text](https://github.com/KodinGuy08/Tesseract-Demo/blob/main/images/demo.png?raw=true)
